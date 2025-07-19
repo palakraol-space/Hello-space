@@ -1,6 +1,6 @@
 # 👩‍💻 Welcome to *Hello Space* 🚀  
 
-![Coder Girl](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
+![Coding](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
 
 This is my **first GitHub repository**!  
 
