@@ -1,6 +1,6 @@
 # 👩‍💻 Welcome to *Hello Space* 🚀  
 
-![Coding](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
+![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 This is my **first GitHub repository**!  
 
